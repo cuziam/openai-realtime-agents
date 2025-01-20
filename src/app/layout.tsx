@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
-
+//need openai key
 export const metadata: Metadata = {
   title: "Realtime API Agents",
   description: "A demo app from OpenAI.",
